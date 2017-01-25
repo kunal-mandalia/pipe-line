@@ -1,6 +1,6 @@
 {
   "name": "pipe-line",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Demo repo for trialling heroku pipelines and CI",
   "main": "server.js",
   "scripts": {
