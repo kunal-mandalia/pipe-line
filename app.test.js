@@ -7,6 +7,7 @@ describe('App functions', function() {
 		var sayHello = appFunctions.sayHello('Kunal');
     it('should return a string', function() {
 			assert.equal(typeof(sayHello), 'string');
+			assert.equal(true, false);
     });
 
 		it('should contain my name', function() {
